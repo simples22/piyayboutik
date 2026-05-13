@@ -19,7 +19,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>1. Overview</h2>
+        <h3>1. Overview</h3>
 
         <p>
           AVE® Cosmetics Company and avecosmetico.com focuses on beauty, skincare, fragrance, cosmetics,
@@ -36,7 +36,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>2. Information We May Collect</h2>
+        <h3>2. Information We May Collect</h3>
 
         <h3>Non-Personal Information</h3>
         <p>
@@ -68,7 +68,7 @@ export default function PrivacyPage() {
         </ul>
 
         {/* ------------------ */}
-        <h2>3. How Information Is Used</h2>
+        <h3>3. How Information Is Used</h3>
 
         <p>
           Information is used only for legitimate operational purposes, including
@@ -84,7 +84,7 @@ export default function PrivacyPage() {
         </ul>
 
         {/* ------------------ */}
-        <h2>4. Referral Tracking</h2>
+        <h3>4. Referral Tracking</h3>
 
         <p>
           Some links on AVE® Cosmetics Company and avecosmetico.com are referral links associated with a
@@ -98,7 +98,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>5. Cookies and Technologies</h2>
+        <h3>5. Cookies and Technologies</h3>
 
         <p>
           AVE® Cosmetics Company and avecosmetico.com may use cookies or similar technologies to improve
@@ -116,7 +116,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>6. Third-Party Platforms</h2>
+        <h3>6. Third-Party Platforms</h3>
 
         <p>
           AVE® Cosmetics Company and avecosmetico.com contains links to third-party platforms, including
@@ -130,7 +130,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>7. No Financial Data Collection</h2>
+        <h3>7. No Financial Data Collection</h3>
 
         <p>
           AVE® Cosmetics Company and avecosmetico.com does not collect or process payment information. All
@@ -139,7 +139,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>8. Data Protection</h2>
+        <h3>8. Data Protection</h3>
 
         <p>
           Reasonable measures are taken to protect information submitted through
@@ -148,7 +148,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>9. Communications</h2>
+        <h3>9. Communications</h3>
 
         <p>
           If you contact AVE® Cosmetics Company, your information may be used to respond
@@ -156,7 +156,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>10. Children’s Privacy</h2>
+        <h3>10. Children’s Privacy</h3>
 
         <p>
           AVE® Cosmetics Company and avecosmetico.com is not intended for individuals under the age of 13.
@@ -164,7 +164,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>11. Your Rights</h2>
+        <h3>11. Your Rights</h3>
 
         <p>
           Depending on your location, you may have rights regarding your personal
@@ -172,7 +172,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>12. Data Retention</h2>
+        <h3>12. Data Retention</h3>
 
         <p>
           Information is retained only as long as necessary for the purposes
@@ -180,7 +180,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>13. International Access</h2>
+        <h3>13. International Access</h3>
 
         <p>
           avecosmetico.com powered by AVE® Cosmetics Company operates from the United States. Users accessing the
@@ -189,7 +189,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>14. Updates</h2>
+        <h3>14. Updates</h3>
 
         <p>
           This Privacy Policy may be updated periodically. Changes will be
@@ -197,7 +197,7 @@ export default function PrivacyPage() {
         </p>
 
         {/* ------------------ */}
-        <h2>15. Contact</h2>
+        <h3>15. Contact</h3>
 
         <p>
           For any questions regarding this Privacy Policy, please contact us

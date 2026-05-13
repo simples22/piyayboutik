@@ -26,7 +26,7 @@ export default function ContactPage() {
         <div className="pbContainer pbContactHeroInner">
 
           <div className="pbContactHeroText">
-            <h1>Contact Vendermarket.com</h1>
+            <h1>Contact AVE™ Group</h1>
             <p>
               Have questions about product discovery, referral links, beauty
               guidance, or continuing to the official Mary Kay platform? Contact
@@ -45,7 +45,7 @@ export default function ContactPage() {
             <h2>Support In</h2>
 
             <p>
-              Vendermarket.com is an independent platform operated by a Mary Kay
+              avecosmetico.com is an independent platform operated by a Mary Kay
               Independent Beauty Consultant and is not owned, operated, or
               endorsed by Mary Kay Inc.
             </p>
@@ -57,7 +57,7 @@ export default function ContactPage() {
             </p>
 
             <a href="mailto:contact@vendermarket.com" className="pbMiniLink">
-              contact@vendermarket.com
+              contact@avecosmetico.com
             </a>
           </div>
         </div>

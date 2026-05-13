@@ -66,7 +66,7 @@ export default function Footer() {
 
             <div className="pbFooterPhoneBox">
               <span>Customer Support</span>
-              <a href="tel:+10000000000">+1 (888) AVE™-CUSTOMER</a>
+              <a href="tel:+1(941)392 1221">+1 (888) AVE™-CUSTOMER</a>
             </div>
           </div>
         </div>

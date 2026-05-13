@@ -7,9 +7,9 @@ import MaryKayDisclaimerSection from "@/components/MaryKayDisclaimerSection";
 import PBImage from "@/components/PBImage";
 
 export const metadata = {
-  title: "Shop Vendermarket Products | By Mary Kay",
+  title: "Shop avecosmetico Products | By Mary Kay",
   description:
-    "Explore Mary Kay product destinations through Vendermarket.com, an independent platform operated by a Mary Kay Independent Beauty Consultant.",
+    "Explore Mary Kay product destinations through avecosmetico.com, an independent platform operated by a Mary Kay Independent Beauty Consultant.",
 };
 
 export default function ShopPage() {

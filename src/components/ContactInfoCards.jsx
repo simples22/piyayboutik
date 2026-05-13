@@ -10,14 +10,14 @@ const contactItems = [
     title: "Email",
     icon: faEnvelope,
     label: "Send us a message",
-    value: "contact@vendermarket.com",
-    href: "mailto:contact@vendermarket.com",
+    value: "contact@avecosmetic.com",
+    href: "mailto:contact@avecosmetico.com",
   },
   {
     title: "Phone",
     icon: faPhone,
     label: "Call support",
-    value: "+1 (941) 800-BEAUTY",
+    value: "+1 (941) AVE™-CUSTOMER",
     href: "tel:+9413921221",
   },
   {
