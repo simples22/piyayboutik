@@ -25,7 +25,7 @@ export default function FAQPage() {
       {/* HERO */}
       <section className="pbFaqHero">
         <div className="pbContainer pbFaqHeroInner">
-          <h1>Questions about Vendermarket.com</h1>
+          <h1>Questions about avecosmetico.com</h1>
           <p>
             Find answers about product selection, ordering, consultants,
             affiliate links, shipping, returns and skincare routines.
