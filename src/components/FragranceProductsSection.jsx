@@ -1,5 +1,6 @@
 "use client";
 
+import Link from "next/link";
 import { marykayProducts } from "@/data/marykayProducts";
 
 export default function FragranceProductsSection() {
@@ -8,59 +9,56 @@ export default function FragranceProductsSection() {
     .slice(0, 4);
 
   function trackClick(product) {
-    console.log("Fragrance click:", product.title);
+    console.log("Fragrance view:", product.title);
   }
 
   return (
     <section className="pbFragranceSection">
-            <div className="HeadBeauty">
+      <div className="HeadBeauty">
         <h1> Our Fragrance Products</h1>
-        </div>
+      </div>
+
       <div className="pbContainer">
         <div className="pbFragranceHead">
           <div>
             <h2>Signature scents for everyday confidence</h2>
           </div>
-          <a
-            href="https://marykay.com/piyayboutik.com"
-            target="_blank"
-            rel="noopener noreferrer sponsored"
-            className="pbMiniLink"
-          >
+
+          <Link href="/shop" className="pbMiniLink">
             View All →
-          </a>
+          </Link>
         </div>
 
         <div className="pbFragranceGrid">
-          {fragranceProducts.map((product) => (
-            <article className="pbFragranceCard" key={product.id}>
-              <a
-                href={product.link}
-                target="_blank"
-                rel="noopener noreferrer sponsored"
-                onClick={() => trackClick(product)}
-                className="pbFragranceMedia"
-              >
-                <img src={product.image} alt={product.title} />
-              </a>
+          {fragranceProducts.map((product) => {
+            const productUrl = `/shop/${product.slug}`;
 
-              <div className="pbFragranceBody">
-                <span>{product.category}</span>
-                <h3>{product.title}</h3>
-                <p>{product.description}</p>
-                <strong>{product.price}</strong>
-
-                <a
-                  href={product.link}
-                  target="_blank"
-                  rel="noopener noreferrer sponsored"
+            return (
+              <article className="pbFragranceCard" key={product.id}>
+                <Link
+                  href={productUrl}
                   onClick={() => trackClick(product)}
+                  className="pbFragranceMedia"
                 >
-                  Shop Now →
-                </a>
-              </div>
-            </article>
-          ))}
+                  <img src={product.image} alt={product.title} />
+                </Link>
+
+                <div className="pbFragranceBody">
+                  <span>{product.category}</span>
+                  <h3>{product.title}</h3>
+                  <p>{product.description}</p>
+                  <strong>{product.priceValue}</strong>
+
+                  <Link
+                    href={productUrl}
+                    onClick={() => trackClick(product)}
+                  >
+                    View Product →
+                  </Link>
+                </div>
+              </article>
+            );
+          })}
         </div>
       </div>
     </section>

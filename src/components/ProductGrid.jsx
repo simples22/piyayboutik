@@ -1,54 +1,54 @@
 "use client";
 
+import Link from "next/link";
+
 export default function ProductGrid({ products = [] }) {
   function trackClick(product) {
-    console.log("Affiliate click:", product.title);
+    console.log("Product view:", product.title);
   }
 
   return (
     <section className="pbProducts">
       <div className="pbProductsGrid">
-        {products.map((product) => (
-          <article className="pbProductCard" key={product.id}>
-            <a
-              href={product.link}
-              target="_blank"
-              rel="noopener noreferrer sponsored"
-              onClick={() => trackClick(product)}
-              className="pbProductImageLink"
-              aria-label={`Shop ${product.title}`}
-            >
-              <span className="pbProductBadge">{product.category}</span>
+        {products.map((product) => {
+          const productUrl = `/shop/${product.slug}`;
 
-              <img
-                src={product.image}
-                alt={product.title}
-                className="pbProductImg"
-              />
-            </a>
-
-            <div className="pbProductBody">
-              <div className="pbProductMeta">
-                <span>{product.category}</span>
-                <strong>{product.priceValue}</strong>
-              </div>
-
-              <h3>{product.title}</h3>
-{/*
-              <p>{product.description}</p>
-*/}
-              <a
-                href={product.link}
-                target="_blank"
-                rel="noopener noreferrer sponsored"
+          return (
+            <article className="pbProductCard" key={product.id}>
+              <Link
+                href={productUrl}
                 onClick={() => trackClick(product)}
-                className="pbProductBtn"
+                className="pbProductImageLink"
+                aria-label={`View ${product.title}`}
               >
-                Shop Now →
-              </a>
-            </div>
-          </article>
-        ))}
+                <span className="pbProductBadge">{product.category}</span>
+
+                <img
+                  src={product.image}
+                  alt={product.title}
+                  className="pbProductImg"
+                />
+              </Link>
+
+              <div className="pbProductBody">
+                <div className="pbProductMeta">
+                  <span>{product.category}</span>
+                  <strong>{product.priceValue}</strong>
+                </div>
+
+                <h3>{product.title}</h3>
+
+                <Link
+                  href={productUrl}
+                  onClick={() => trackClick(product)}
+                  className="pbProductBtn"
+                >
+                  View Product →
+                </Link>
+              </div>
+            </article>
+          );
+        })}
       </div>
     </section>
   );

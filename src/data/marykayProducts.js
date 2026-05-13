@@ -158,7 +158,7 @@ export const marykayProducts = [
   },
 
   {
-    id: 16,
+    id: 15,
     slug: "mary-kay-hydrating-regiment-normal",
     title: "Mary Kay® Hydrating Regimen Normal/Dry",
     category: "Skincare",
@@ -168,7 +168,7 @@ export const marykayProducts = [
     description: "Say bye-bye to dryness with the Mary Kay® Hydrating Regimen, which features fundamental products designed with normal to dry skin in mind, but is suitable for all skin types.",
   },
   {
-    id: 17,
+    id: 16,
     slug: "hand-cream-pampering-set-hands-fragrance",
     title: "Fragrance-Free Satin Hands® Pampering Set",
     category: "Body & SunHands",
@@ -178,7 +178,7 @@ export const marykayProducts = [
     description: "Give hands a spalike treatment with this three-step moisturizing set. Fragrance-Free Satin Hands® Protecting Softener - 2.1 oz. Fragrance-Free Satin Hands® Satin",
   },
   {
-    id: 18,
+    id: 17,
     slug: "mary-kay-sunscreen-broad-spf-50",
     title: "Mary Kay® Sunscreen Broad Spectrum SPF 50*",
     category: "Body & sun",
@@ -188,7 +188,7 @@ export const marykayProducts = [
     description: "choose a sunscreen you’ll love to wear for an active life lived outdoors. This high-performance sunscreen offers 80 minutes of water resistance while sweating or swimming.",
   },
   {
-    id: 19,
+    id: 18,
     slug: "timewise-daytime-defender-sunscreen",
     title: "TimeWise® Daytime Defender Sunscreen Broad Spectrum SPF 30†",
     category: "Body & Sun",
@@ -200,7 +200,7 @@ export const marykayProducts = [
 
   // ===== EXTRA CORE =====
   {
-    id: 20,
+    id: 19,
     slug: "hello-clean",
     title: "Hello, Clean",
     category: "Body",
@@ -210,7 +210,7 @@ export const marykayProducts = [
     description: "Say goodbye to dry skin and hello to a fresh, clean way to start the day. It’s a gift that any girl would greet with a smile. <br></br>Set includes: Mary Kay® 2-In-1 Body Wash & Shave  Mary Kay® Hydrating Lotion",
   },
   {
-    id: 21,
+    id: 20,
     slug: "citrus-satin-body-",
     title: "White Tea & Citrus Satin Body® Revitalizing Shea Scrub",
     category: "Body & Sun",
@@ -220,7 +220,7 @@ export const marykayProducts = [
     description: "Buff away dryness and reveal soft skin with this exfoliating scrub, leaving you with a refreshed, smooth feel.",
   },
   {
-    id: 22,
+    id: 21,
     slug: "mary-kay-sunscreen-broad-spectrum",
     title: "Mary Kay® Sunscreen Broad Spectrum SPF 50",
     category: "Body",
@@ -230,7 +230,7 @@ export const marykayProducts = [
     description: "For everything under the sun, choose a sunscreen you’ll love to wear for an active life lived outdoors. This high-performance sunscreen offers 80 minutes of water resistance while sweating or swimming. The weightless, film-free feel of this quick-absorbing lotion provides a natural, nonsticky finish that leaves no white cast, so you can confidently wear this sunscreen even under makeup. *Over-the-counter drug product",
   },
   {
-    id: 23,
+    id: 22,
     slug: "mary-kay-hydrating-cream-mask",
     title: "Mary Kay® Hydrating Cream Mask",
     category: "Skincare",
@@ -242,7 +242,7 @@ export const marykayProducts = [
 
   // ===== FRAGRANCE =====
   {
-    id: 24,
+    id: 23,
     slug: "mary-ay-onfidently-you™-eau-de-parfum",
     title: "Mary Kay Confidently You™ Eau de Parfum",
     category: "Fragrance",
@@ -253,7 +253,7 @@ export const marykayProducts = [
   },
 
   {
-    id: 25,
+    id: 24,
     slug: "mary-kay-illuminea-extrait-de-parfum",
     title: "Mary Kay Illuminea™ Extrait de Parfum",
     category: "Fragrance",
@@ -263,7 +263,7 @@ export const marykayProducts = [
     description: "Experience a luxury perfume with a floral oriental scent and concentrated, long-lasting fragrance that inspires self-confidence.",
   },
   {
-    id: 26,
+    id: 25,
     slug: "cityscape-cologne-spray",
     title: "Cityscape® Cologne Spray",
     category: "Fragrance",
@@ -273,7 +273,7 @@ export const marykayProducts = [
     description: "Experience a refined masculine scent with elegance and sophistication, blending lavender, bergamot, and rich cedarwood..",
   },
   {
-    id: 27,
+    id: 26,
     slug: "mk-high-intensity-ocean-cologne-spray",
     title: "MK High Intensity Ocean® Cologne Spray",
     category: "Fragrance",
@@ -285,7 +285,7 @@ export const marykayProducts = [
 
   // ===== +12 NEW PRODUCTS =====
   {
-    id: 28,
+    id: 27,
     slug: "mix-&-mask",
     title: "Mary Kay Hydrating cream Mix & Mask",
     category: "Makeup",
@@ -295,7 +295,7 @@ export const marykayProducts = [
     description: "Mary Kay® masks to target different areas of your face and address specific skin needs all at once.",
   },
   {
-    id: 29,
+    id: 28,
     slug: "eyebrow-eyeliner-brush",
     title: "Mary Kay® Eyebrow/Eyeliner Brush",
     category: "Makeup",
@@ -305,7 +305,7 @@ export const marykayProducts = [
     description: "Tame brows, fill in sparse areas and precisely apply eyeliner with the Mary Kay® Eyebrow/Eyeliner Brush. Wired spoolie on one end and firm, angled brush on the other. Bristles gently grip product until you place it where you want it. Brush is compatible with cream and powder formulas.",
   },
   {
-    id: 30,
+    id: 29,
     slug: "timewise-repair-revealing-radiance-facial-peel",
     title: "TimeWise Repair® Revealing Radiance® Facial Peel",
     category: "Skincare",
@@ -315,7 +315,7 @@ export const marykayProducts = [
     description: "This chemical facial peel harnesses the power of glycolic acid to eliminate skin-dulling dead cells. Due to this superstar ingredient, skin’s own natural renewal process is enhanced, and younger-looking, more radiant skin is revealed. Utilize the gentle effectiveness of this at-home chemical peel to see skin that looks rejuvenated. See clinically tested results in two weeks!* Skin looks brighter. Skin texture is significantly improved. Fine lines and wrinkles look reduced. Skin tone looks more even. *Results based on a four-week independent clinical study in which 45 women used TimeWise Repair® Revealing Radiance® Facial Peel twice a week.",
   },
   {
-    id: 31,
+    id: 30,
     slug: "white-tea-&-citrus-satin-lips-set",
     title: "White Tea & Citrus Satin Lips® Set",
     category: "Skin Care",
@@ -325,7 +325,7 @@ export const marykayProducts = [
     description: "The White Tea & Citrus Satin Lips® Set sends your pout on a path to paradise for a spa-like treatment anytime, anywhere. Formulated with nourishing shea butter and the fresh flavor of white tea & citrus, these products leave dry, chapped lips behind, delivering moisturizing bliss in two easy steps. Your oasis awaits.",
   },
   {
-    id: 32,
+    id: 31,
     slug: "timewise-repair-ultimate-volu-firm-set",
     title: "TimeWise Repair® Ultimate Volu-Firm® Set",
     category: "SkinCare",
@@ -335,7 +335,7 @@ export const marykayProducts = [
     description: "Create the ultimate advanced age-fighting regimen with the powerful skin science behind TimeWise Repair®.",
   },
   {
-    id: 33,
+    id: 32,
     slug: "Mary-kay-clinical-solutions-dynamic-wrinkle-limiter",
     title: "Mary Kay Clinical Solutions® Dynamic Wrinkle Limiter™",
     category: "Skincare",
@@ -345,7 +345,7 @@ export const marykayProducts = [
     description: "Experience pain-free results on your own time with our exclusive, no-needle alternative to relax the appearance of expression lines. Inspired by a widely used wrinkle-relaxing injection treatment, this topical cream is powered by three plant extracts to achieve comparable results with no frozen face effects.†* These ingredients work together to help minimize the impact of facial expressions that cause the appearance of dynamic wrinkles — lines and creases caused by facial expressions.",
   },
   {
-    id: 34,
+    id: 33,
     slug: "mary-kay-grea-heights-mascara",
     title: "Mary Kay® Great Heights™ Mascara",
     category: "Makeup",
@@ -356,7 +356,7 @@ export const marykayProducts = [
   },
 
   {
-    id: 35,
+    id: 34,
     slug: "lash-intensity-mascara",
     title: "Lash Intensity® Mascara",
     category: "Skincare",
@@ -367,7 +367,7 @@ export const marykayProducts = [
   },
 
   {
-    id: 36,
+    id: 35,
     slug: "mary-kay-oil-free-eye-makeup-remover",
     title: "Mary Kay® Oil-Free Eye Makeup Remover",
     category: "Sets",
@@ -378,7 +378,7 @@ export const marykayProducts = [
   },
 
   {
-    id: 37,
+    id: 36,
     slug: "live-fearlessly-eau-de-parfum",
     title: "Live Fearlessly® Eau de Parfum",
     category: "Serum",
@@ -389,7 +389,7 @@ export const marykayProducts = [
   },
 
   {
-    id: 38,
+    id: 37,
     slug: "white-tea-&-citrus-satin-body-wash",
     title: "White Tea & Citrus Satin Body® Indulgent Shea Wash",
     category: "Body & Sun",
@@ -399,7 +399,7 @@ export const marykayProducts = [
     description: "Let your shower be your escape. White Tea & Citrus Satin Body® Indulgent Shea Wash instantly envelops you in a rich lather and leaves your skin feeling smooth and refreshed.",
   },
   {
-    id: 39,
+    id: 38,
     slug: "clear-proof-scne-system-set",
     title: "Clear Proof® Acne System Set",
     category: "Skincare",

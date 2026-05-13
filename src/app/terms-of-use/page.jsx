@@ -4,7 +4,7 @@ export default function TermsPage() {
 
       <div className="pbContainer pbLegalWrapper">
 
-          <h1>Terms of Use _ <span>  AVE® Cosmetics Companies</span></h1>
+          <h1>Terms of Use _ <span>  AVE™ Cosmetics Companies</span></h1>
 
           <p>
             Please read these Terms of Use carefully before accessing or using
@@ -15,7 +15,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE® Cosmetics Company is an independent digital platform operated by a Mary Kay
+            AVE™ Cosmetics Company is an independent digital platform operated by a Mary Kay
             Independent Beauty Consultant. The platform is designed to provide curated
             product discovery, informational content, and access to external product
             destinations. AVE® Cosmetics Company and avecosmetico.com does not sell products, process payments,
@@ -93,7 +93,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE® Company is not responsible for third-party platform content,
+            AVE™ Company is not responsible for third-party platform content,
             product accuracy, pricing changes, service availability, transaction
             outcomes, or customer service experiences.
           </p>
@@ -154,9 +154,9 @@ export default function TermsPage() {
           </p>
 
           <p>
-            While avecosmetico.com ou AVE® Cosmetics Company may reference Mary Kay® products, categories, or
+            While avecosmetico.com ou AVE™ Cosmetics Company may reference Mary Kay® products, categories, or
             related information, such references are made strictly for identification,
-            informational, and product discovery purposes only. AVE® Cosmetics Company does
+            informational, and product discovery purposes only. AVE™ Cosmetics Company does
             not represent itself as an official Mary Kay platform, distributor, or
             corporate entity.
           </p>
@@ -170,7 +170,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE® Cosmetics Company or avecosmetico.com does not imply any partnership, joint venture, agency,
+            AVE™ Cosmetics Company or avecosmetico.com does not imply any partnership, joint venture, agency,
             or official relationship with Mary Kay Inc. The presence of product
             references, links, or branding elements should not be interpreted as an
             endorsement, sponsorship, or approval by Mary Kay.
@@ -223,7 +223,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            Nothing on AVE® Cosmetics Company or avecosmetics.com shall be interpreted as granting, by
+            Nothing on AVE™ Cosmetics Company or avecosmetics.com shall be interpreted as granting, by
             implication or otherwise, any license or right to use any trademark,
             logo, or proprietary material displayed on the platform without the
             prior written consent of the respective owner.
@@ -297,7 +297,7 @@ export default function TermsPage() {
           <h2>6. Product Information Disclaimer</h2>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com strives to provide accurate, relevant, and up-to-date
+            AVE™ Cosmetics Company and avecosmetico.com strives to provide accurate, relevant, and up-to-date
             product information, including descriptions, categories, pricing references,
             and general product details. However, avecosmetico.com does not guarantee
             that any information presented on the platform is complete, accurate,
@@ -332,7 +332,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com shall not be held liable for any loss, damage, or
+            AVE™ Cosmetics Company and avecosmetico.com shall not be held liable for any loss, damage, or
             misunderstanding resulting from reliance on product information
             presented on this platform.
           </p>
@@ -342,7 +342,7 @@ export default function TermsPage() {
           <h2>7. Third-Party Platforms</h2>
 
           <p>
-            AVE® Cosmetics Company and avecosmetics.com contains links to third-party platforms, including
+            AVE™ Cosmetics Company and avecosmetics.com contains links to third-party platforms, including
             external product destinations such as official Mary Kay® pages.
             These links are provided solely for convenience, informational purposes,
             and to facilitate product discovery.
@@ -356,7 +356,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com is not responsible for the accuracy, completeness,
+            AVE™ Cosmetics Company and avecosmetico.com is not responsible for the accuracy, completeness,
             reliability, or availability of any information, products, or services
             provided on third-party platforms.
           </p>
@@ -370,13 +370,13 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com does not guarantee the security, functionality,
+            AVE™ Cosmetics Company and avecosmetico.com does not guarantee the security, functionality,
             or performance of third-party platforms and shall not be held liable
             for any damages, losses, or issues arising from their use.
           </p>
 
           <p>
-            By using AVE® Cosmetics Company platform or avecosmetico.com, you acknowledge and agree that accessing
+            By using AVE™ Cosmetics Company platform or avecosmetico.com, you acknowledge and agree that accessing
             third-party platforms is done at your own discretion and risk.
           </p>
 
@@ -384,7 +384,7 @@ export default function TermsPage() {
           <h2>8. Limitation of Liability</h2>
 
           <p>
-            To the fullest extent permitted by applicable law, AVE® Cosmetics Company and avecosmetico.com,
+            To the fullest extent permitted by applicable law, AVE™ Cosmetics Company and avecosmetico.com,
             its operator, and any associated parties shall not be held liable
             for any direct, indirect, incidental, consequential, special, or
             punitive damages arising out of or related to your use of, or inability
@@ -438,7 +438,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            By using AVE® Cosmetics Company and avecosmetico.com, you acknowledge and agree that your use
+            By using AVE™ Cosmetics Company and avecosmetico.com, you acknowledge and agree that your use
             of the platform is at your own risk.
           </p>
 
@@ -484,7 +484,7 @@ export default function TermsPage() {
           </ul>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com reserves the right, at its own expense, to assume
+            AVE™ Cosmetics Company and avecosmetico.com reserves the right, at its own expense, to assume
             exclusive defense and control of any matter otherwise subject to
             indemnification by you, in which case you agree to cooperate fully
             with such defense.
@@ -500,14 +500,14 @@ export default function TermsPage() {
           <h2>10. Privacy</h2>
 
           <p>
-            Your use of AVE® Cosmetics Company and avecosmetico.com is also governed by our{" "}
+            Your use of AVE™ Cosmetics Company and avecosmetico.com is also governed by our{" "}
             <a href="/privacy-policy">Privacy Policy</a>, which explains how
             information may be collected, used, and protected when you access
             or interact with this platform.
           </p>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com is an independent platform operated by a Mary Kay
+            AVE™ Cosmetics Company and avecosmetico.com is an independent platform operated by a Mary Kay
             Independent Beauty Consultant and does not process payments or manage
             transactions directly. As a result, certain interactions may involve
             third-party platforms.
@@ -521,7 +521,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com does not control and is not responsible for the data
+            AVE™ Cosmetics Company and avecosmetico.com does not control and is not responsible for the data
             collection, processing, storage, or security practices of any
             third-party platform.
           </p>
@@ -553,7 +553,7 @@ export default function TermsPage() {
           </ul>
 
           <p>
-            By continuing to use AVE® Cosmetics Company and avecosmetico.com, you acknowledge and agree that
+            By continuing to use AVE™ Cosmetics Company and avecosmetico.com, you acknowledge and agree that
             your interactions with third-party platforms are subject to their own
             policies and legal frameworks.
           </p>
@@ -563,7 +563,7 @@ export default function TermsPage() {
           <h2>11. Jurisdiction</h2>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com is operated from the United States. By accessing or using
+            AVE™ Cosmetics Company and avecosmetico.com is operated from the United States. By accessing or using
             this platform, you agree that your use is governed by applicable federal
             laws of the United States.
           </p>
@@ -589,7 +589,7 @@ export default function TermsPage() {
           <h2>12. Modifications</h2>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com reserves the right to update, modify, or revise these
+            AVE™ Cosmetics Company and avecosmetico.com reserves the right to update, modify, or revise these
             Terms of Use at any time, at its sole discretion, without prior notice.
           </p>
 
@@ -619,7 +619,7 @@ export default function TermsPage() {
 
           <p>
             Any disputes arising out of or relating to these Terms or the use of
-            AVE® Cosmetics Company and avecosmetico.com shall be subject to the exclusive jurisdiction of
+            AVE™ Cosmetics Company and avecosmetico.com shall be subject to the exclusive jurisdiction of
             the courts located within the State of Florida.
           </p>
 

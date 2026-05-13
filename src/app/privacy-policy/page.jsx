@@ -6,14 +6,14 @@ export default function PrivacyPage() {
         <h1>Privacy Policy</h1>
 
         <p>
-          This Privacy Policy explains how AVE® Cosmetics Company and avecosmetico.com collects, uses,
+          This Privacy Policy explains how AVE™ Cosmetics Company and avecosmetico.com collects, uses,
           stores, protects, and handles information when visitors access the
           platform, browse product recommendations, interact with content,
           or click referral links that redirect to third-party platforms.
         </p>
 
         <p>
-          AVE® Cosmetics Company and avecosmetico.com is an independent platform operated by a Mary Kay
+          AVE™ Cosmetics Company and avecosmetico.com is an independent platform operated by a Mary Kay
           Independent Beauty Consultant and is not owned, operated, or endorsed
           by Mary Kay Inc.
         </p>
@@ -22,7 +22,7 @@ export default function PrivacyPage() {
         <h3>1. Overview</h3>
 
         <p>
-          AVE® Cosmetics Company and avecosmetico.com focuses on beauty, skincare, fragrance, cosmetics,
+          AVE™ Cosmetics Company and avecosmetico.com focuses on beauty, skincare, fragrance, cosmetics,
           and product discovery. The platform does not sell products, process
           payments, handle transactions, ship merchandise, or manage order
           fulfillment.
@@ -40,7 +40,7 @@ export default function PrivacyPage() {
 
         <h3>Non-Personal Information</h3>
         <p>
-          AVE® Cosmetics Company and avecosmetico.com may collect general technical and usage information
+          AVE™ Cosmetics Company and avecosmetico.com may collect general technical and usage information
           that does not directly identify you as an individual. This helps
           improve platform performance, navigation, content quality, and product
           discovery.
@@ -57,7 +57,7 @@ export default function PrivacyPage() {
         <h3>Voluntary Information</h3>
         <p>
           If you submit information through contact forms or communication tools,
-          AVE® Cosmetics Company and avecosmetico.com may collect the information you voluntarily provide.
+          AVE™ Cosmetics Company and avecosmetico.com may collect the information you voluntarily provide.
         </p>
 
         <ul>
@@ -87,13 +87,13 @@ export default function PrivacyPage() {
         <h3>4. Referral Tracking</h3>
 
         <p>
-          Some links on AVE® Cosmetics Company and avecosmetico.com are referral links associated with a
+          Some links on AVE™ Cosmetics Company and avecosmetico.com are referral links associated with a
           Mary Kay Independent Beauty Consultant. When you click these links,
           you may be redirected to a third-party platform that may use cookies,
           tracking identifiers, or similar technologies to attribute referrals.
         </p>
         <p>
-          AVE® Cosmetics Company and avecosmetico.com does not control how third-party platforms collect,
+          AVE™ Cosmetics Company and avecosmetico.com does not control how third-party platforms collect,
           store, or use your information once you leave this platform.
         </p>
 
@@ -101,7 +101,7 @@ export default function PrivacyPage() {
         <h3>5. Cookies and Technologies</h3>
 
         <p>
-          AVE® Cosmetics Company and avecosmetico.com may use cookies or similar technologies to improve
+          AVE™ Cosmetics Company and avecosmetico.com may use cookies or similar technologies to improve
           functionality, analyze traffic, and measure performance.
         </p>
 
@@ -119,7 +119,7 @@ export default function PrivacyPage() {
         <h3>6. Third-Party Platforms</h3>
 
         <p>
-          AVE® Cosmetics Company and avecosmetico.com contains links to third-party platforms, including
+          AVE™ Cosmetics Company and avecosmetico.com contains links to third-party platforms, including
           official Mary Kay product destinations. Once redirected, your
           interaction is governed by the policies and practices of that platform.
         </p>
@@ -133,7 +133,7 @@ export default function PrivacyPage() {
         <h3>7. No Financial Data Collection</h3>
 
         <p>
-          AVE® Cosmetics Company and avecosmetico.com does not collect or process payment information. All
+          AVE™ Cosmetics Company and avecosmetico.com does not collect or process payment information. All
           financial transactions are completed exclusively on third-party
           platforms such as Mary Kay Plat-form.
         </p>
@@ -151,7 +151,7 @@ export default function PrivacyPage() {
         <h3>9. Communications</h3>
 
         <p>
-          If you contact AVE® Cosmetics Company, your information may be used to respond
+          If you contact AVE™ Cosmetics Company, your information may be used to respond
           to your inquiry. No unsolicited communications are sent without consent.
         </p>
 
@@ -159,7 +159,7 @@ export default function PrivacyPage() {
         <h3>10. Children’s Privacy</h3>
 
         <p>
-          AVE® Cosmetics Company and avecosmetico.com is not intended for individuals under the age of 13.
+          AVE™ Cosmetics Company and avecosmetico.com is not intended for individuals under the age of 13.
           No personal data is knowingly collected from children.
         </p>
 
@@ -183,7 +183,7 @@ export default function PrivacyPage() {
         <h3>13. International Access</h3>
 
         <p>
-          avecosmetico.com powered by AVE® Cosmetics Company operates from the United States. Users accessing the
+          avecosmetico.com powered by AVE™ Cosmetics Company operates from the United States. Users accessing the
           platform from other regions are responsible for compliance with local
           laws.
         </p>
