@@ -2,9 +2,9 @@ import FAQSection from "@/components/FAQSection";
 import Image from "next/image";
 
 export const metadata = {
-  title: "FAQ | PiyayBoutik",
+  title: "FAQ | AVE™ oficial Website Questions Update",
   description:
-    "Frequently asked questions about Mary Kay products, consultants, affiliate links and beauty routines.",
+    "Frequently asked questions about Mary Kay products, partners affiliate programs, consultants, affiliate links and beauty routines.",
 };
 
 export default function FAQPage() {
