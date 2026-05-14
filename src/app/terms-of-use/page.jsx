@@ -23,7 +23,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            avecosmetics.com platform is not owned, operated, affiliated with, or endorsed by
+            avecosmetico.com platform is not owned, operated, affiliated with, or endorsed by
             Mary Kay Inc. Any references to Mary Kay®, including product names,
             trademarks, or branding elements, are used strictly for identification
             and informational purposes. All trademarks, service marks, and brand assets
@@ -64,7 +64,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE® Cosmetics Cosmetics does not sell products, process payments, handle
+            AVE® Cosmetics Companies does not sell products, process payments, handle
             financial transactions, store inventory, ship merchandise, or manage
             order fulfillment. The platform does not act as a retailer, distributor,
             or marketplace.
