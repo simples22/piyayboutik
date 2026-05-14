@@ -15,9 +15,9 @@ const inter = Inter({
 export const metadata = {
   metadataBase: new URL("https://avecosmetico.com"),
 
-verification: {
-  google: "5a23f596896594f6",
-},
+  verification: {
+    google: "JkE3OmP3B4QfdXHOkBrYO53jkk3grXQBpr02hJuFWdk",
+  },
 
   title: {
     default: "AVE™ Cosmetics | Beauty, Skincare & Mary Kay® Products",
