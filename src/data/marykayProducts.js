@@ -408,4 +408,15 @@ export const marykayProducts = [
     link: "https://www.marykay.com/piyayboutik.com/en/skincare/collection/clear-proof/clear-proof-acne-system-set-10233587/990334631US10233587.html",
     description: "With the Clear Proof® Acne System, you get an effective regimen clinically shown to provide clearer skin in just 7 days.  The four-product set.",
   },
+
+  {
+    id: 38,
+    slug: "confidently-parfum-you",
+    title: "Mary Kay Confidently You™ Eau de Parfum",
+    category: "Fragrance",
+    image: "/images/products/confidently-parfum-you.jpg",
+    priceValue: "$55.00",
+    link: "https://www.marykay.com/en/fragrance/scent/floral/confidently-you-eau-de-parfum-10235051/990328410US10235051.html",
+    description: "Unleash your confidence with Mary Kay Confidently You™ Eau de Parfum, a captivating oriental floral fragrance designed to empower and inspire. This bold scent opens with the fresh allure of Mandarin, Bergamot and Pear, transitioning into a floral heart of Jasmine, Cassis Bud and Rose. Grounded by Warm Amber, Sandalwood and Vanilla, it leaves a lasting impression wherever you go. Perfect for any occasion, this fragrance celebrates unapologetic femininity, making it ideal for women who embrace their strength and individuality. Let your confidence shine with this empowering, sophisticated scent.",
+  },
 ];

@@ -444,6 +444,19 @@ h1,
 }
 
 
+.pbProductImg,
+.pbFragranceMedia img,
+.pbProductDetailsMedia img{
+  width:100%;
+  height:auto;
+}
+
+img{
+  max-width:100%;
+  height:auto;
+}
+
+
 
 
 
@@ -3148,6 +3161,7 @@ font-size: 2em;
 
 .pbFragranceBody strong{
   margin-top:auto;
+  display: none;
   color:var(--black);
   font-size:.9em;
   font-weight:var(--font-weight-btn);

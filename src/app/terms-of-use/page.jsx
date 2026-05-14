@@ -15,10 +15,10 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE™ Cosmetics Company is an independent digital platform operated by a Mary Kay
+            AVE™ Cosmetics Companies is an independent digital platform operated by a Mary Kay
             Independent Beauty Consultant. The platform is designed to provide curated
             product discovery, informational content, and access to external product
-            destinations. AVE® Cosmetics Company and avecosmetico.com does not sell products, process payments,
+            destinations. AVE™ Cosmetics Companies and avecosmetico.com does not sell products, process payments,
             handle transactions, ship merchandise, or manage order fulfillment.
           </p>
 
@@ -33,7 +33,7 @@ export default function TermsPage() {
           <p>
             When interacting with product listings, category links, or call-to-action
             elements on this platform, you may be redirected to third-party platforms,
-            including official Mary Kay product destinations. All transactions,
+            including official Mary Kay© product destinations. All transactions,
             payments, pricing, product availability, shipping, returns, and customer
             support are handled exclusively by those third-party platforms.
           </p>
@@ -64,7 +64,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE® cosmetics does not sell products, process payments, handle
+            AVE® Cosmetics Cosmetics does not sell products, process payments, handle
             financial transactions, store inventory, ship merchandise, or manage
             order fulfillment. The platform does not act as a retailer, distributor,
             or marketplace.
@@ -87,13 +87,13 @@ export default function TermsPage() {
           <p>
             By using avecosmetico.com, you acknowledge that any transaction you may
             complete will occur directly on a third-party platform, and not on
-            Vendermarket.com. As such, all contractual relationships, purchase
+            avecosmetico.com. As such, all contractual relationships, purchase
             agreements, and post-purchase interactions are established solely
             between you and the third-party platform.
           </p>
 
           <p>
-            AVE™ Company is not responsible for third-party platform content,
+            AVE™ Cosmetics Companies (ACC) is not responsible for third-party platform content,
             product accuracy, pricing changes, service availability, transaction
             outcomes, or customer service experiences.
           </p>
@@ -132,7 +132,7 @@ export default function TermsPage() {
 
           <p>
             Any interaction, transaction, or engagement that occurs after leaving
-            avecosmetico.com by AVE® Company is governed solely by the terms, policies, and operational
+            avecosmetico.com by AVE® Cosmetics Companies is governed solely by the terms, policies, and operational
             frameworks of the third-party platform.
           </p>
 
@@ -154,9 +154,9 @@ export default function TermsPage() {
           </p>
 
           <p>
-            While avecosmetico.com ou AVE™ Cosmetics Company may reference Mary Kay® products, categories, or
+            While avecosmetico.com ou AVE™ Cosmetics Companies may reference Mary Kay® products, categories, or
             related information, such references are made strictly for identification,
-            informational, and product discovery purposes only. AVE™ Cosmetics Company does
+            informational, and product discovery purposes only. AVE™ Cosmetics Companies does
             not represent itself as an official Mary Kay platform, distributor, or
             corporate entity.
           </p>
@@ -170,7 +170,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE™ Cosmetics Company or avecosmetico.com does not imply any partnership, joint venture, agency,
+            AVE™ Cosmetics Companies or avecosmetico.com does not imply any partnership, joint venture, agency,
             or official relationship with Mary Kay Inc. The presence of product
             references, links, or branding elements should not be interpreted as an
             endorsement, sponsorship, or approval by Mary Kay.
@@ -179,7 +179,7 @@ export default function TermsPage() {
           <p>
             Any transactions, communications, or interactions related to Mary Kay
             products occur directly between the user and the official Mary Kay
-            platform. Vendermarket.com is not involved in, and assumes no
+            platform. avecosmetico.com is not involved in, and assumes no
             responsibility for, any aspect of those interactions.
           </p>
 
@@ -223,7 +223,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            Nothing on AVE™ Cosmetics Company or avecosmetics.com shall be interpreted as granting, by
+            Nothing on AVE™ Cosmetics Companies or avecosmetics.com shall be interpreted as granting, by
             implication or otherwise, any license or right to use any trademark,
             logo, or proprietary material displayed on the platform without the
             prior written consent of the respective owner.
@@ -239,7 +239,7 @@ export default function TermsPage() {
           <h2>5. Acceptable Use</h2>
 
           <p>
-            You agree to use Vendermarket.com in a lawful, responsible, and respectful
+            You agree to use avecosmetico.com in a lawful, responsible, and respectful
             manner, and in full compliance with all applicable local, national, and
             international laws and regulations.
           </p>
@@ -297,7 +297,7 @@ export default function TermsPage() {
           <h2>6. Product Information Disclaimer</h2>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetico.com strives to provide accurate, relevant, and up-to-date
+            AVE™ Cosmetics Companies and avecosmetico.com strives to provide accurate, relevant, and up-to-date
             product information, including descriptions, categories, pricing references,
             and general product details. However, avecosmetico.com does not guarantee
             that any information presented on the platform is complete, accurate,
@@ -320,7 +320,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            avecosmetico.com and AVE® Cosmetics Company does not verify or control third-party product data
+            avecosmetico.com and AVE™ Cosmetics Companies does not verify or control third-party product data
             and is not responsible for any discrepancies, inaccuracies, or changes
             that may occur after a user is redirected to an external platform.
           </p>
@@ -332,7 +332,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetico.com shall not be held liable for any loss, damage, or
+            AVE™ Cosmetics Companies and avecosmetico.com shall not be held liable for any loss, damage, or
             misunderstanding resulting from reliance on product information
             presented on this platform.
           </p>
@@ -342,7 +342,7 @@ export default function TermsPage() {
           <h2>7. Third-Party Platforms</h2>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetics.com contains links to third-party platforms, including
+            AVE™ Cosmetics Companies and avecosmetics.com contains links to third-party platforms, including
             external product destinations such as official Mary Kay® pages.
             These links are provided solely for convenience, informational purposes,
             and to facilitate product discovery.
@@ -356,7 +356,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetico.com is not responsible for the accuracy, completeness,
+            AVE™ Cosmetics Companies and avecosmetico.com is not responsible for the accuracy, completeness,
             reliability, or availability of any information, products, or services
             provided on third-party platforms.
           </p>
@@ -370,13 +370,13 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetico.com does not guarantee the security, functionality,
+            AVE™ Cosmetics Companies and avecosmetico.com does not guarantee the security, functionality,
             or performance of third-party platforms and shall not be held liable
             for any damages, losses, or issues arising from their use.
           </p>
 
           <p>
-            By using AVE™ Cosmetics Company platform or avecosmetico.com, you acknowledge and agree that accessing
+            By using AVE™ Cosmetics Companies platform or avecosmetico.com, you acknowledge and agree that accessing
             third-party platforms is done at your own discretion and risk.
           </p>
 
@@ -384,7 +384,7 @@ export default function TermsPage() {
           <h2>8. Limitation of Liability</h2>
 
           <p>
-            To the fullest extent permitted by applicable law, AVE™ Cosmetics Company and avecosmetico.com,
+            To the fullest extent permitted by applicable law, AVE™ Cosmetics Companies and avecosmetico.com,
             its operator, and any associated parties shall not be held liable
             for any direct, indirect, incidental, consequential, special, or
             punitive damages arising out of or related to your use of, or inability
@@ -408,7 +408,7 @@ export default function TermsPage() {
 
             <li>
               Any transactions, interactions, or engagements conducted on
-              third-party platforms after leaving AVE® Cosmetics Company and avecosmetico.com
+              third-party platforms after leaving AVE™ Cosmetics Companies and avecosmetico.com
             </li>
 
             <li>
@@ -428,17 +428,17 @@ export default function TermsPage() {
           </ul>
 
           <p>
-            AVE® Cosmetics Company and avecosmetico.com does not guarantee that the platform will operate
+            AVE™ Cosmetics Companies and avecosmetico.com does not guarantee that the platform will operate
             without interruption, error, or security vulnerabilities.
           </p>
 
           <p>
-            In all cases, AVE® Cosmetics Company and avecosmetico.com’s total liability, if any, shall be
+            In all cases, AVE™ Cosmetics Companies and avecosmetico.com’s total liability, if any, shall be
             limited to the maximum extent permitted by law.
           </p>
 
           <p>
-            By using AVE™ Cosmetics Company and avecosmetico.com, you acknowledge and agree that your use
+            By using AVE™ Cosmetics Companies and avecosmetico.com, you acknowledge and agree that your use
             of the platform is at your own risk.
           </p>
 
@@ -446,7 +446,7 @@ export default function TermsPage() {
           <h2>9. Indemnification</h2>
 
           <p>
-            You agree to indemnify, defend, and hold harmless Vendermarket.com,
+            You agree to indemnify, defend, and hold harmless avecosmetico.com,
             its operator, affiliates, partners, and any associated parties from
             and against any and all claims, demands, damages, losses, liabilities,
             costs, or expenses (including reasonable legal fees) arising out of
@@ -469,7 +469,7 @@ export default function TermsPage() {
 
             <li>
               Any interaction, transaction, or dispute occurring on third-party
-              platforms after leaving AVE® Cosmetics Company and avecosmetico.com
+              platforms after leaving AVE™ Cosmetics Companies and avecosmetico.com
             </li>
 
             <li>
@@ -484,7 +484,7 @@ export default function TermsPage() {
           </ul>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetico.com reserves the right, at its own expense, to assume
+            AVE™ Cosmetics Companies and avecosmetico.com reserves the right, at its own expense, to assume
             exclusive defense and control of any matter otherwise subject to
             indemnification by you, in which case you agree to cooperate fully
             with such defense.
@@ -500,14 +500,14 @@ export default function TermsPage() {
           <h2>10. Privacy</h2>
 
           <p>
-            Your use of AVE™ Cosmetics Company and avecosmetico.com is also governed by our{" "}
+            Your use of AVE™ Cosmetics Companies and avecosmetico.com is also governed by our{" "}
             <a href="/privacy-policy">Privacy Policy</a>, which explains how
             information may be collected, used, and protected when you access
             or interact with this platform.
           </p>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetico.com is an independent platform operated by a Mary Kay
+            AVE™ Cosmetics Companies and avecosmetico.com is an independent platform operated by a Mary Kay
             Independent Beauty Consultant and does not process payments or manage
             transactions directly. As a result, certain interactions may involve
             third-party platforms.
@@ -521,7 +521,7 @@ export default function TermsPage() {
           </p>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetico.com does not control and is not responsible for the data
+            AVE™ Cosmetics Companies and avecosmetico.com does not control and is not responsible for the data
             collection, processing, storage, or security practices of any
             third-party platform.
           </p>
@@ -553,7 +553,7 @@ export default function TermsPage() {
           </ul>
 
           <p>
-            By continuing to use AVE™ Cosmetics Company and avecosmetico.com, you acknowledge and agree that
+            By continuing to use AVE™ Cosmetics Companies and avecosmetico.com, you acknowledge and agree that
             your interactions with third-party platforms are subject to their own
             policies and legal frameworks.
           </p>
@@ -563,7 +563,7 @@ export default function TermsPage() {
           <h2>11. Jurisdiction</h2>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetico.com is operated from the United States. By accessing or using
+            AVE™ Cosmetics Companies and avecosmetico.com is operated from the United States. By accessing or using
             this platform, you agree that your use is governed by applicable federal
             laws of the United States.
           </p>
@@ -589,7 +589,7 @@ export default function TermsPage() {
           <h2>12. Modifications</h2>
 
           <p>
-            AVE™ Cosmetics Company and avecosmetico.com reserves the right to update, modify, or revise these
+            AVE™ Cosmetics Companies and avecosmetico.com reserves the right to update, modify, or revise these
             Terms of Use at any time, at its sole discretion, without prior notice.
           </p>
 
@@ -619,7 +619,7 @@ export default function TermsPage() {
 
           <p>
             Any disputes arising out of or relating to these Terms or the use of
-            AVE™ Cosmetics Company and avecosmetico.com shall be subject to the exclusive jurisdiction of
+            AVE™ Cosmetics Companies and avecosmetico.com shall be subject to the exclusive jurisdiction of
             the courts located within the State of Florida.
           </p>
 
