@@ -18,7 +18,7 @@ export default function Footer() {
           <div className="pbFooterCol pbFooterBrand">
             
                 <p>
-                  AVE® Cosmetics Companies (AVECC) is an independent platform operated by a Mary Kay Independent
+                  AVE® Cosmetics Companies (ACC) is an independent platform operated by a Mary Kay Independent
                   Beauty Consultant. Discover curated beauty, skincare and makeup essentials
                   designed for everyday confidence. All purchases are completed exclusively through the
                   official Mary Kay platform.
@@ -76,7 +76,7 @@ export default function Footer() {
         <div className="pbContainer pbFooterBottomInner">
           <p>© 2026 AVE™ Cosmetics Companies Group. All rights reserved.</p>
           <p>
-              avecosmetico.com powered by AVE® Cosmetics Companies is a platform operated by an independent affiliate 
+              avecosmetico.com powered by AVE™ Cosmetics Companies is a platform operated by an independent affiliate 
               and is not owned, operated, or endorsed by Mary Kay Inc. 
               All purchases, payments, order fulfillment, product availability, returns, 
               and official product information are handled exclusively through 
