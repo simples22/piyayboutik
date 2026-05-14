@@ -16,7 +16,7 @@ export const metadata = {
   metadataBase: new URL("https://avecosmetico.com"),
 
     verification: {
-    google: "google523f596896594f6.html",
+    google: "google5a23f596896594f6.html",
   },
 
   title: {
