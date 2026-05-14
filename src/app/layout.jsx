@@ -24,7 +24,7 @@ export const metadata = {
     template: "%s | AVE® Cosmetics",
   },
   description:
-    "AVE® Cosmetics is a beauty and skincare platform featuring cosmetic selections, skincare essentials, beauty routines, wellness collections, and curated Mary Kay® products for everyday confidence and self-care.",
+    "AVE™ Cosmetics is a beauty and skincare platform featuring cosmetic selections, skincare essentials, beauty routines, wellness collections, and curated Mary Kay® products for everyday confidence and self-care.",
 keywords: [
 "AVE Cosmetics",
 "AVE Cosmetico",
